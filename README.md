@@ -1,5 +1,7 @@
 # Bike_data_Dashboard
 
+- NOTE : Please download the dasboard to have a look on it. File name is "Bike_data_project.pynb"
+
 ## Problem Statement
 
 Dear Data Analyst,
